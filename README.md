@@ -21,8 +21,8 @@
 - [x] 1. What is typedef?
 - [x] 2. Creating your own data type in C
 - [x] 3. [How to return and pass a struct to a function](/dcs/10_struct_data.md#3-how-to-return-and-pass-a-struct-to-a-function)
-- [ ] 4.
-- [ ] 5.
+- [X] 4. What is a static variable?
+- [x] 5. What are unions in C?
 - [ ] 6.
 - [ ] 7.
 - [ ] 8.
