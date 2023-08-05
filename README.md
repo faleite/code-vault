@@ -23,9 +23,9 @@
 - [x] 3. [How to return and pass a struct to a function](/dcs/10_struct_data.md#3-how-to-return-and-pass-a-struct-to-a-function)
 - [X] 4. What is a static variable?
 - [x] 5. What are unions in C?
-- [ ] 6.
-- [ ] 7.
-- [ ] 8.
+- [ ] 6. Anonymous unions in C
+- [ ] 7. Integer type conversions
+- [ ] 8. Introduction to Enumerations in C
 - [ ] 9.
 - [ ] 10.
 - [ ] 11.
