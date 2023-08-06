@@ -3,8 +3,8 @@
 ### 1. [Arrays in C](https://code-vault.net/course/ar67avx6hk:1610029043923)
 - [x] 1. How to convert a for loop into a while loop
 - [x] 2. When to use a for loop and when to use a while loop
-- [ ] 3.
-- [ ] 4.
+- [x] 3. Iterating over an array using pointers
+- [x] 4. Iterating over main parts of a matrix
 - [ ] 5.
 - [ ] 6.
 - [ ] 7.
