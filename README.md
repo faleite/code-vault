@@ -4,7 +4,7 @@
 - [x] 1. How to convert a for loop into a while loop
 - [x] 2. When to use a for loop and when to use a while loop
 - [x] 3. Iterating over an array using pointers
-- [x] 4. Iterating over main parts of a matrix
+- [x] 4. [Iterating over main parts of a matrix](./dcs/01_arrays.md#4-iterating-over-main-parts-of-a-matrix)
 - [ ] 5.
 - [ ] 6.
 - [ ] 7.
