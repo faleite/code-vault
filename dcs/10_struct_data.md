@@ -50,3 +50,28 @@ int	main(int argc, char *argv[])
 	return (0);
 }
 ```
+## 6. Anonymous unions in C
+```c
+typedef struct CustomFloat
+{
+	bool isExtended; // caso Extended seja verdadeiro
+	union { // Os variaveis encontram-se no mesmo endereco
+		float value;
+		double valueExtended;
+	};
+} CostomFloat;
+
+int	main(void)
+{
+	CustomFloat cf, cf2;
+	cf.isExtended = false;
+	cf.value = 12.5f;
+
+	cf2.isExtended = true;
+	cf2.valueExtended = 0.25;
+
+	printf("%f %lf\n", cf.value, cf2.valueExtended); // 12.500000 0.250000
+	printf("%f %lf\n", cf.value, cf2.valueExtended); // 023FE48 023FE48
+	printf("%llu\n", sizeof(CustomFloat)); // 16 (4 bytes float + 8 bytes double)
+	return (0);
+}
