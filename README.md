@@ -16,6 +16,9 @@
 - [ ] 13.
 - [ ] 14.
 
+### 4. [Linked lists for absolute beginners](https://code-vault.net/course/z1ry7bakhs:1603732279805)
+[Notation](https://github.com/faleite/42_push_swap/blob/main/dcs/linked_list.md)
+
 ### 10. [Struct and other data types in C](https://code-vault.net/course/y3oqy8sdqo:1610029042490/lesson/x8a6oj884e:1603733520791)
 [Notation](./dcs/10_struct_data.md)
 - [x] 1. What is typedef?
